@@ -1,0 +1,28 @@
+[{
+        "_id": {
+            "$oid": "5eee6717a27a66807cf2bea9"
+        },
+        "name": "Mashroom Pizza",
+        "image": "pizza.png",
+        "price": "250",
+        "size": "medium"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6717a27a66807cf2bea6"
+        },
+        "name": "Mashroom",
+        "image": "pizza.png",
+        "price": "350",
+        "size": "medium"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6717a27a66807cf2bea7"
+        },
+        "name": "Mashroom Pi",
+        "image": "pizza.png",
+        "price": "250",
+        "size": "medium"
+    }
+]
